@@ -1,0 +1,3 @@
+git commands
+initialization- git init
+add changes- git add . or git add file_name
