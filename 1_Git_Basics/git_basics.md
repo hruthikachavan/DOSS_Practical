@@ -86,7 +86,7 @@ Committed and pushed the feature:
     git branch
     git push -u origin feature-add-description
 
-![Branch Creation](screenshots/branch_created.png)
+![Branch Creation](screenshots/branch_created.png.png)
 
 ## 6. Merge the Feature Branch into Main
 
@@ -100,7 +100,7 @@ Switched to `main` and merged the feature branch.
     git status
     git push origin main
 
-![Merge Operation](screenshots/merge_completed.png)
+![Merge Operation](screenshots/merge-completed.png)
 
 ## 7. Pull Changes from GitHub
 
