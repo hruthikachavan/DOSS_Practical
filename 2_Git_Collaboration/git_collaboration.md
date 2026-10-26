@@ -104,4 +104,3 @@ Merged the pull request after reviewing the changes and verified that the update
 | `git log --oneline --graph --all` | Displays the commit history |
 
 ---
-
