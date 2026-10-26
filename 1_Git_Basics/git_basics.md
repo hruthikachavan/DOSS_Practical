@@ -147,7 +147,6 @@ Restored the file and verified the result.
 
 **Observation:** The unstaged changes were discarded and the working tree returned to a clean state, provided no other changes were pending.
 
-> **Note:** `git restore index.html` discards unstaged modifications to that file. Use it only when you intend to discard those changes.
 
 ## 📋 Summary of Git Commands
 
