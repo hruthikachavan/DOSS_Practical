@@ -4,13 +4,7 @@
 ## Aim
 To deploy a containerized Node.js application using Kubernetes, expose it through a NodePort Service, and demonstrate horizontal scaling by increasing the number of application replicas.
 
-## Objectives
-- Start and verify a local Kubernetes cluster.
-- Build a Docker image for the Node.js application.
-- Deploy the application using a Kubernetes Deployment.
-- Expose the application using a Kubernetes Service.
-- Verify Pods, Deployments, and Services.
-- Scale the application from two replicas to three replicas.
+
 
 ## Tools and Technologies Used
 - **Docker Desktop:** Provides the container runtime.
@@ -19,11 +13,6 @@ To deploy a containerized Node.js application using Kubernetes, expose it throug
 - **Kubernetes:** Orchestrates containers and manages application replicas.
 - **Node.js:** Runtime used to execute the application.
 - **VS Code:** Used to create and edit Kubernetes YAML files.
-
-## Introduction
-Kubernetes is an open-source container orchestration platform used to deploy, manage, and scale containerized applications.
-
-In this practical, a Node.js application is packaged as a Docker image and deployed to a local Kubernetes cluster using Minikube. A Deployment manages two application replicas, while a NodePort Service exposes the application externally. Finally, the Deployment is scaled to three replicas to demonstrate horizontal scaling.
 
 ## Procedure
 
