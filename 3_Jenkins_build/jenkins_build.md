@@ -138,7 +138,7 @@ Opened the corresponding build number and inspected its Console Output.
 
 ---
 
-## 📋 Important Concepts
+##  Important Concepts
 
 | Concept | Description |
 |---|---|
@@ -152,28 +152,3 @@ Opened the corresponding build number and inspected its Console Output.
 | Build Trigger | Starts a Jenkins job when the configured event occurs |
 | Console Output | Displays checkout logs and build execution results |
 
-## 📸 Evidence Directory
-
-    03-jenkins-build/
-    ├── README.md
-    └── screenshots/
-        ├── 01-jenkins-dashboard.png
-        ├── 02-job-configuration.png
-        ├── 03-ngrok-running.png
-        ├── 04-github-webhook.png
-        ├── 05-webhook-delivery.png
-        └── 06-automatic-build-success.png
-
-## 📚 Learning Outcomes
-
-1. Installed and configured Jenkins on Windows.
-2. Integrated a GitHub repository with a Jenkins Freestyle project.
-3. Configured a Node.js build step.
-4. Exposed the Jenkins server through ngrok.
-5. Configured GitHub webhooks for push events.
-6. Automated Jenkins builds when changes were pushed to GitHub.
-7. Verified webhook delivery and build execution through logs.
-
-## ✅ Result
-
-Successfully configured Jenkins to retrieve a Node.js application from GitHub and automatically trigger builds when changes were pushed to the repository. The screenshots and build logs provide evidence of the configuration and execution.
