@@ -1,11 +1,11 @@
 
 # Practical 4: Dockerization of a Node.js Application
 
-## 🎯 Aim
+##  Aim
 
 To containerize a Node.js application using Docker so that it can run consistently across different environments without requiring manual dependency installation on the host machine.
 
-## 🛠️ Tools and Technologies
+##  Tools and Technologies
 
 - Docker Desktop
 - Docker CLI
@@ -16,7 +16,7 @@ To containerize a Node.js application using Docker so that it can run consistent
 
 
 
-## ⚙️ Procedure
+##  Procedure
 
 ### 1. Verify Docker Installation
 
@@ -109,7 +109,7 @@ Opened the browser and accessed the application through the published port.
 
 **Evidence:**
 
-![Application in Browser](screenshots/browser-application.png)
+![Application in Browser](screenshots/browser-app.png)
 
 The application should display its actual page or API response. The port must match the application configuration.
 
@@ -129,7 +129,7 @@ Used Docker commands to stop and restart the container when required.
 
 ---
 
-## 📋 Summary of Docker Commands
+##  Summary of Docker Commands
 
 | Command | Purpose |
 |---|---|
