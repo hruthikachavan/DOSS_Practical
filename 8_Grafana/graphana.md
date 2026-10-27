@@ -26,9 +26,8 @@ Started Grafana using Docker to visualize the metrics collected by Prometheus.
 
 **Command:**
 
-```powershell
+powershell
 docker run -d --name grafana -p 3000:3000 -v grafana-storage:/var/lib/grafana grafana/grafana
-```
 **Screenshots:**
 
 ![Dashboard](screenshots/Dashboard.png)
