@@ -99,7 +99,7 @@ Created and started a container from the built image.
 ![Running Container](screenshots/container-running.png)
 
 
-### 5. Access the Application
+### 5. Access the Application 
 
 Opened the browser and accessed the application through the published port.
 
@@ -119,8 +119,8 @@ Used Docker commands to stop and restart the container when required.
 
 **Commands:**
 
-    docker stop nodejs-practical-container
-    docker start nodejs-practical-container
+    docker stop student_task_managera_container
+    docker start student_task_managera_container
 
 **Additional verification:**
 
